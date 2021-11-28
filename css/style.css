@@ -3,7 +3,7 @@ body {
   color: #40514E;
   text-align: center;
   font-family: 'Merriweather', serif;
-
+  line-height: 2
 }
 
 h1 {
@@ -60,7 +60,7 @@ a:hover{
   background-color: #66BFBF;
   padding: 50PX 0 20PX;
 }
-.p{
+p{
   line-height: 2;
 }
 .intro{
@@ -84,7 +84,7 @@ a:hover{
 }
 .skill-row{
   width: 50%;
-  margin:100px auto 100px auto;
+  margin:100px auto 120px auto;
   text-align: left;
 }
 .Development{
